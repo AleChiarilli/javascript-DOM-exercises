@@ -1,2 +1,2 @@
 // Your code here
-console.log("Hello World")
+window.onload = function() {alert("Hello World")}
